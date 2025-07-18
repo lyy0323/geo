@@ -3,9 +3,9 @@ title: 芋泥椰子冻🥥
 subtitle: [芋椰的小世界]
 keywords: lyy0323
 description: 于有泪时忘顾影，向无人处借容身。
-baseurl: "/writing" # the subpath of your site, e.g. /blog
-url: "https://lyy0323.space/writing/" # 你的域名
-page_no_title: "lyy0323's writing" # 文章无标题时默认显示内容
+baseurl: "/geo" # the subpath of your site, e.g. /blog
+url: "https://lyy0323.space/geo/" # 你的域名
+page_no_title: "lyy0323's geo" # 文章无标题时默认显示内容
 beian: # "备案号"
 author: lyy0323
 email: lyy_0323@outlook.com
